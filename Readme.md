@@ -1,10 +1,5 @@
-Absolutely — here’s a polished **README.md** and **.gitignore** you can copy directly into your repo. ✨
-
 ---
 
-# `README.md`
-
-````markdown
 # 🧠 Single Layer Perceptrons & ANN Workshop
 
 A polished deep learning workshop notebook that bridges the journey from **biological neurons** to **artificial neural networks (ANNs)** through intuitive theory, logic-gate perceptrons, exploratory analysis, and a practical classification challenge built with **PyTorch** and **scikit-learn**.
@@ -238,10 +233,5 @@ The applied classification section is designed to clearly demonstrate ANN concep
 
 ---
 
----
-
-````
-
----
 
 
