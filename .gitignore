@@ -1,0 +1,86 @@
+
+---
+
+# `.gitignore`
+
+```gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# Environment variable files
+.env
+.env.*
+
+# Test / coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# MyPy / type checking
+.mypy_cache/
+.pytype/
+
+# Ruff / lint caches
+.ruff_cache/
+
+# Jupyter runtime
+.jupyter/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Model / large binary artifacts
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.pkl
+*.joblib
+
+# Data files you may not want to track
+# Uncomment if needed
+# data/
+# *.csv
+# *.xlsx
+
+# Plotly / notebook export clutter
+*.html
+
+# PDFs generated during submission, uncomment if needed
+# *.pdf
