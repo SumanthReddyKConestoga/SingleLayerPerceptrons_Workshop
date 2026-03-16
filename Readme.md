@@ -2,7 +2,7 @@
 
 # 🧠 Single Layer Perceptrons & ANN Workshop
 
-A polished deep learning workshop notebook that bridges the journey from **biological neurons** to **artificial neural networks (ANNs)** through intuitive theory, logic-gate perceptrons, exploratory analysis, and a practical classification challenge built with **PyTorch** and **scikit-learn**.
+A  deep learning workshop notebook that bridges the journey from **biological neurons** to **artificial neural networks (ANNs)** through intuitive theory, logic-gate perceptrons, exploratory analysis, and a practical classification challenge built with **PyTorch** and **scikit-learn**.
 
 ---
 
@@ -104,11 +104,6 @@ python -m venv .venv
 .venv\Scripts\Activate.ps1
 ```
 
-#### Windows CMD
-
-```bash
-python -m venv .venv
-.venv\Scripts\activate.bat
 ```
 
 ### 3) Install dependencies
@@ -218,18 +213,11 @@ These metrics help assess not only correctness, but also how well the model sepa
 
 ---
 
-## 🗣️ Suggested Class Talking Points
+## 🗣️  Talking Points
 
 1. **Feature scaling improves neural network training** because large numeric differences across variables can destabilize optimization.
 2. **Backpropagation is the core learning engine** because it calculates how much each parameter contributed to the prediction error.
 3. **Model performance depends on data quality and class separability** because even a well-designed ANN cannot learn what the data does not reveal.
-
----
-
-## ⚠️ Academic Note
-
-This repository is structured as a workshop learning artifact.
-The applied classification section is designed to clearly demonstrate ANN concepts such as preprocessing, forward pass, loss calculation, backpropagation, and gradient-based learning in a reproducible educational format.
 
 ---
 
